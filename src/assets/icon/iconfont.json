@@ -1,0 +1,51 @@
+{
+  "id": "3749997",
+  "name": "英沃电子资源",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11488053",
+      "name": "good",
+      "font_class": "good",
+      "unicode": "e753",
+      "unicode_decimal": 59219
+    },
+    {
+      "icon_id": "11488168",
+      "name": "set",
+      "font_class": "set",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "11474291",
+      "name": "integral",
+      "font_class": "integral",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "11488024",
+      "name": "Customer management",
+      "font_class": "Customermanagement",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "11488131",
+      "name": "shuffling-banner",
+      "font_class": "shuffling-banner",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
+      "icon_id": "11488166",
+      "name": "video",
+      "font_class": "video",
+      "unicode": "e76d",
+      "unicode_decimal": 59245
+    }
+  ]
+}

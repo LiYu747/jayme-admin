@@ -1,0 +1,40 @@
+{
+  "name": "jayme-admin",
+  "version": "1.2.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "version": "standard-version --tag-prefix \"\"",
+    "versionMajor": "standard-version --release-as major --tag-prefix \"\"",
+    "buildDev": "vue-cli-service build --mode dev",
+    "buildTest": "vue-cli-service build --mode test",
+    "buildPreProd": "vue-cli-service build --mode preprod"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "@vueuse/core": "^9.13.0",
+    "@wangeditor/editor": "^5.1.23",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "axios": "^1.2.6",
+    "core-js": "^3.8.3",
+    "crypto-js": "^4.1.1",
+    "element-plus": "^2.2.18",
+    "js-md5": "^0.7.3",
+    "spark-md5": "^3.0.2",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "sass": "^1.43.5",
+    "sass-loader": "^13.1.0",
+    "standard-version": "^9.5.0"
+  }
+}
